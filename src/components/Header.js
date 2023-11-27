@@ -7,12 +7,12 @@ export default function Header() {
           <div class="flex items-center justify-between">
             <ul id="top-buttons" class="flex items-center space-x-4">
               <li>
-                <a class="hover:text-gray-300">
+                <a href="https://www.google.com" class="hover:text-gray-300">
                   <i class="fa fa-sign-in"></i> Login
                 </a>
               </li>
               <li>
-                <a class="hover:text-gray-300">
+                <a href="https://www.google.com" class="hover:text-gray-300">
                   <i class="fa fa-pencil-square-o"></i> Register
                 </a>
               </li>
@@ -24,16 +24,16 @@ export default function Header() {
                   </span>
                   <ul class="hidden absolute bg-white text-black rounded-md p-2 space-y-1 group-hover:block">
                     <li>
-                      <a>Deutsch</a>
+                      <a href="https://www.google.com">Deutsch</a>
                     </li>
                     <li>
-                      <a>Español</a>
+                      <a href="https://www.google.com">Español</a>
                     </li>
                     <li>
-                      <a>Français</a>
+                      <a href="https://www.google.com">Français</a>
                     </li>
                     <li>
-                      <a>Português</a>
+                      <a href="https://www.google.com">Português</a>
                     </li>
                   </ul>
                 </div>
@@ -52,22 +52,22 @@ export default function Header() {
 
             <ul class="nav navbar-nav  flex justify-between mb-2">
               <li>
-                <a>Find a Rental</a>
+                <a href="https://www.google.com">Find a Rental</a>
               </li>
               <li>
-                <a>List your rental</a>
+                <a href="https://www.google.com">List your rental</a>
               </li>
               <li>
-                <a>Regions</a>
+                <a href="https://www.google.com">Regions</a>
               </li>
               <li>
-                <a>Travel Guides</a>
+                <a href="https://www.google.com">Travel Guides</a>
               </li>
               <li>
-                <a>About Us</a>
+                <a href="https://www.google.com">About Us</a>
               </li>
               <li>
-                <a>Regions</a>
+                <a href="https://www.google.com">Regions</a>
               </li>
             </ul>
           </div>
