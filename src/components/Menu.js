@@ -57,7 +57,7 @@ export default function Menu() {
         </li>
 
         <li className="mb-2">
-          <a v>
+          <a href="https://www.google.com">
             <img
               src="http://placehold.it/760x670"
               alt=""
