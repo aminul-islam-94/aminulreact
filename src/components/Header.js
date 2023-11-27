@@ -7,12 +7,12 @@ export default function Header() {
           <div class="flex items-center justify-between">
             <ul id="top-buttons" class="flex items-center space-x-4">
               <li>
-                <a href="#" class="hover:text-gray-300">
+                <a class="hover:text-gray-300">
                   <i class="fa fa-sign-in"></i> Login
                 </a>
               </li>
               <li>
-                <a href="#" class="hover:text-gray-300">
+                <a class="hover:text-gray-300">
                   <i class="fa fa-pencil-square-o"></i> Register
                 </a>
               </li>
@@ -24,16 +24,16 @@ export default function Header() {
                   </span>
                   <ul class="hidden absolute bg-white text-black rounded-md p-2 space-y-1 group-hover:block">
                     <li>
-                      <a href="#">Deutsch</a>
+                      <a>Deutsch</a>
                     </li>
                     <li>
-                      <a href="#">Español</a>
+                      <a>Español</a>
                     </li>
                     <li>
-                      <a href="#">Français</a>
+                      <a>Français</a>
                     </li>
                     <li>
-                      <a href="#">Português</a>
+                      <a>Português</a>
                     </li>
                   </ul>
                 </div>
@@ -52,22 +52,22 @@ export default function Header() {
 
             <ul class="nav navbar-nav  flex justify-between mb-2">
               <li>
-                <a href="#">Find a Rental</a>
+                <a>Find a Rental</a>
               </li>
               <li>
-                <a href="#">List your rental</a>
+                <a>List your rental</a>
               </li>
               <li>
-                <a href="#">Regions</a>
+                <a>Regions</a>
               </li>
               <li>
-                <a href="#">Travel Guides</a>
+                <a>Travel Guides</a>
               </li>
               <li>
-                <a href="#">About Us</a>
+                <a>About Us</a>
               </li>
               <li>
-                <a href="#">Regions</a>
+                <a>Regions</a>
               </li>
             </ul>
           </div>

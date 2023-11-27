@@ -5,7 +5,7 @@ export default function Footer() {
       <div className="container mx-auto py-12 flex flex-wrap">
         {/* Column 1 */}
         <div className="w-full sm:w-1/2 md:w-1/4 mb-8">
-          <a href="#">
+          <a>
             <img
               src="images/logo.png"
               alt="One Ring Rentals"
@@ -24,19 +24,13 @@ export default function Footer() {
           <h3 className="text-xl font-semibold mb-4">Helpful Links</h3>
           <ul className="list-none">
             <li>
-              <a href="#" className="text-gray-300 hover:text-white">
-                All rentals
-              </a>
+              <a className="text-gray-300 hover:text-white">All rentals</a>
             </li>
             <li>
-              <a href="#" className="text-gray-300 hover:text-white">
-                List your rental
-              </a>
+              <a className="text-gray-300 hover:text-white">List your rental</a>
             </li>
             <li>
-              <a href="#" className="text-gray-300 hover:text-white">
-                Read our FAQs
-              </a>
+              <a className="text-gray-300 hover:text-white">Read our FAQs</a>
             </li>
           </ul>
         </div>
@@ -122,32 +116,32 @@ export default function Footer() {
           {/* SOCIAL NETWORKS */}
           <ul className="flex space-x-4">
             <li>
-              <a href="#" className="text-gray-300 hover:text-white">
+              <a className="text-gray-300 hover:text-white">
                 <i className="fa fa-facebook"></i>
               </a>
             </li>
             <li>
-              <a href="#" className="text-gray-300 hover:text-white">
+              <a className="text-gray-300 hover:text-white">
                 <i className="fa fa-twitter"></i>
               </a>
             </li>
             <li>
-              <a href="#" className="text-gray-300 hover:text-white">
+              <a className="text-gray-300 hover:text-white">
                 <i className="fa fa-google"></i>
               </a>
             </li>
             <li>
-              <a href="#" className="text-gray-300 hover:text-white">
+              <a className="text-gray-300 hover:text-white">
                 <i className="fa fa-pinterest"></i>
               </a>
             </li>
             <li>
-              <a href="#" className="text-gray-300 hover:text-white">
+              <a className="text-gray-300 hover:text-white">
                 <i className="fa fa-youtube"></i>
               </a>
             </li>
             <li>
-              <a href="#" className="text-gray-300 hover:text-white">
+              <a className="text-gray-300 hover:text-white">
                 <i className="fa fa-rss"></i>
               </a>
             </li>

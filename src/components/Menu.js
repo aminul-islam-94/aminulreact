@@ -7,7 +7,7 @@ export default function Menu() {
       <Heading>FEATURED PROPERTIES</Heading>
       <ul className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-3 gap-4 mr-14 sm:ml-12">
         <li className="mb-2">
-          <a href="properties-detail.html">
+          <a>
             <img
               src="http://placehold.it/760x670"
               alt=""
@@ -17,7 +17,7 @@ export default function Menu() {
         </li>
 
         <li className="mb-2">
-          <a href="properties-detail.html">
+          <a>
             <img
               src="http://placehold.it/760x670"
               alt=""
@@ -27,7 +27,7 @@ export default function Menu() {
         </li>
 
         <li className="mb-2">
-          <a href="properties-detail.html">
+          <a>
             <img
               src="http://placehold.it/760x670"
               alt=""
@@ -37,7 +37,7 @@ export default function Menu() {
         </li>
 
         <li className="mb-2">
-          <a href="properties-detail.html">
+          <a>
             <img
               src="http://placehold.it/760x670"
               alt=""
@@ -47,7 +47,7 @@ export default function Menu() {
         </li>
 
         <li className="mb-2">
-          <a href="properties-detail.html">
+          <a>
             <img
               src="http://placehold.it/760x670"
               alt=""
@@ -57,7 +57,7 @@ export default function Menu() {
         </li>
 
         <li className="mb-2">
-          <a href="properties-detail.html">
+          <a>
             <img
               src="http://placehold.it/760x670"
               alt=""
@@ -71,7 +71,7 @@ export default function Menu() {
 
       <ul className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-3 gap-4 mr-20 sm:ml-20">
         <li className="mb-2">
-          <a href="properties-detail.html">
+          <a>
             <img
               src="http://placehold.it/194x194"
               alt=""
@@ -81,7 +81,7 @@ export default function Menu() {
           </a>
         </li>
         <li className="mb-2">
-          <a href="properties-detail.html">
+          <a>
             <img
               src="http://placehold.it/194x194"
               alt=""
@@ -92,7 +92,7 @@ export default function Menu() {
         </li>
 
         <li className="mb-2">
-          <a href="properties-detail.html">
+          <a>
             <img
               src="http://placehold.it/194x194"
               alt=""
@@ -103,7 +103,7 @@ export default function Menu() {
         </li>
 
         <li className="mb-2">
-          <a href="properties-detail.html">
+          <a>
             <img
               src="http://placehold.it/194x194"
               alt=""
@@ -114,7 +114,7 @@ export default function Menu() {
         </li>
 
         <li className="mb-2">
-          <a href="properties-detail.html">
+          <a>
             <img
               src="http://placehold.it/194x194"
               alt=""
@@ -125,7 +125,7 @@ export default function Menu() {
         </li>
 
         <li className="mb-2">
-          <a href="properties-detail.html">
+          <a>
             <img
               src="http://placehold.it/194x194"
               alt=""
